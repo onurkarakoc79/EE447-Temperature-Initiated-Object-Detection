@@ -1,0 +1,18 @@
+--cpu=Cortex-M4.fp.sp
+".\main.o"
+".\deep_sleep.o"
+".\lcd.o"
+".\radar.o"
+".\systick_init.o"
+".\bmp280.o"
+".\i2c.o"
+".\keypad.o"
+".\keypad_1.o"
+".\hcsr04.o"
+".\led_buzzer.o"
+".\adc.o"
+".\startup_tm4c123.o"
+".\system_tm4c123.o"
+--ro-base 0x00000000 --entry 0x00000000 --rw-base 0x20000000 --entry Reset_Handler --first __Vectors --strict --summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Proje.map" -o .\Proje.axf
