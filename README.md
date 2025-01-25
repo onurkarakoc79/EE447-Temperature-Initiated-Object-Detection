@@ -1,10 +1,10 @@
 # EE447-Temperature-Initiated-Object-Detection
-Temperature-Initiated-Object-Detection
+#Temperature-Initiated-Object-Detection
 
 
 This project implements a robust temperature-initiated object detection system using the TM4C123G microcontroller. It integrates temperature sensors, an ultrasonic distance sensor, and various output modules to achieve efficient and interactive functionality.
 
-Features
+#Features
 
 Temperature Monitoring: Uses LM35 and BMP280 sensors for analog and digital temperature readings.
 
