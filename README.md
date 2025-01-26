@@ -46,8 +46,10 @@ The system operates as follows:
 # How to Use
 
 1. Clone the repository:
+  ```bash
+   git clone https://github.com/onurkarakoc79/EE447-Temperature-Initiated-Object-Detection.git
+  ```
 
-<pre> git clone https://github.com/onurkarakoc79/EE447-Temperature-Initiated-Object-Detection.git </pre>
 
 2. Follow the provided pin diagram and connection details to set up the hardware.
 
