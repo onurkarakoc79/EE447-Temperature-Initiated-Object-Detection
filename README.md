@@ -82,3 +82,11 @@ The system operates as follows:
 # License
 
 This project is open-source and available under the MIT License.
+
+## Contact
+
+If you have any questions, feedback, or inquiries related to the project, feel free to reach out to us:
+
+Mail: onurkarakoc79@gmail.com
+Mail: boras916@gmail.com
+
